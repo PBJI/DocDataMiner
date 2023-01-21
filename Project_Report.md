@@ -38,7 +38,7 @@ The library built should be scalable and secure to process millions of files.
 3) Extract
 
 # Roadmap:
-1) Dataset Collection. [^5]
+1) Dataset Collection. [^5] [^6]
 2) Taking inputs of documents in different formats: Image / PDF / Word
 3) Converting the inputs to single type of format: Image
 4) Process the Image. [^1]
@@ -170,3 +170,7 @@ license document, and so on.
 
 [^5]: Dataset was collected using open source google image scraping script
 found on github.
+We omitted the dataset in the project file while uploading due to maximum
+cap on project size.
+
+[^6]: ImageF.py is a script we used to bulk filter images that were not relevant to project.
